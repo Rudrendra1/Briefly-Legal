@@ -29,7 +29,7 @@ The **Legal AI: Automated Legal Document Analysis Platform** simplifies the chal
 ### ⚙️ Manual Setup
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Zubair7102/Briefly-Legal.git
+git clone https://github.com/Rudrendra1/Briefly-Legal
 ```
 
 2. **Setup Frontend (Next.js)**
